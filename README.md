@@ -68,22 +68,3 @@ atau jalankan melalui GitHub Pages:
 ```
 https://marchellmanurung-ctrl.github.io/Chiper-Plain/
 ```
-
-## Tampilan Aplikasi
-
-Aplikasi menyediakan:
-
-* Mode Enkripsi
-* Mode Dekripsi
-* Pengaturan kunci (0–255)
-* Visualisasi byte (Hex)
-* Tabel analisis cipher
-* Ekspor tabel ke Markdown dan Plaintext
-
-## Penulis
-
-Marchell Gabriel Manurung
-
-Program Studi Pendidikan Teknologi Informasi dan Komputer (PTIK)
-
-Universitas Negeri Medan
